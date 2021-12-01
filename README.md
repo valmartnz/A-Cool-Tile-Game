@@ -20,6 +20,6 @@ This project uses a public template of SMFL adapted for VSCode that can be found
 
 
 ### How to Run
-- When both SFML and GCC are downloaded and extracted, move into "C:\" to configure for VSCode.
+- When both SFML and GCC are downloaded and extracted, copy folders into "C:\" to configure for VSCode.
 - Clone repo, and on VSCode to run and build project use CTRL+SHIFT+B(must have git installed correctly).
 - Pop out of game will appear on screen to play.
