@@ -14,5 +14,5 @@ Provide output, screenshots / videos if the pull request changes UI.
 
 **Code formatting**
 
-Try to keep it consitant. 
+Try to keep it consitant to what is seen in main. 
 
