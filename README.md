@@ -1,4 +1,4 @@
-# Tetris  
+# It's Tetris  
 A simple game of tetris using SMFL to display gameplay.  
   
 
